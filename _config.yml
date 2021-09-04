@@ -19,12 +19,12 @@ locale                   : "en-US"
 title                    : "AI study package"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "DonghaeSuh"
+name                     : "Donghae Suh"
 description              : "오늘도 새로운 것을 배우네요"
 url                      : "https://DonghaeSuh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/image.png"
 logo                     : "/assets/image.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
